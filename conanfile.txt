@@ -1,0 +1,6 @@
+[requires]
+rapidjson/1.1.0
+pistache/cci.20201127
+
+[generators]
+cmake
